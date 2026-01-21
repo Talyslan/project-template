@@ -149,10 +149,12 @@ pnpm dev
 
 Additional documentation can be found in the /docs folder, including:
 
-- [Project vision](/docs/)
-- [Requirements](/docs/)
-- [Architecture decisions](/docs/)
-- [Database structure](/docs/)
+- [01 - Project Overview](/docs/01-project-overview.md)
+- [02 - Product & Scope](/docs/02-product-and-scope.md)
+- [03 - Users & Flows](/docs/03-users-and-flows.md)
+- [04 - Architecture & Tech](/docs/04-architeture-and-tech.md)
+- [05 - Database & Security](/docs/05-database-and-security.md)
+- [06 - Roadmap & Decisions](/docs/06-roadmap-and-decisions.md)
 
 ## 📜 License
 
