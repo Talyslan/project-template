@@ -1,11 +1,23 @@
+# Documentation Template
+
 ![Project Banner](/docs/banner.png)
 > Replace this banner with your project banner (recommended size: 1280x640)
-
-# Documentation Template
 
 This repository provides a **ready-to-use documentation template** to help developers start new projects with a clear, consistent, and professional structure from day one.
 
 It focuses on improving documentation writing speed by offering a structured `/docs` folder and a standardized `README.md` layout that can be easily customized for any software project.
+
+## 📖 Summary
+
+- [Objective](#-objective)
+- [Features](#-features)
+- [Why This Project Exists](#-why-this-project-exists)
+- [Tech Stack](#️-tech-stack)
+- [Project Architecture](#-project-architecture)
+- [Running the Project Locally](#-running-the-project-locally)
+- [Documentation](#-documentation)
+- [License](#-license)
+- [Contributors](#-contributors)
 
 ## 🎯 Objective
 
