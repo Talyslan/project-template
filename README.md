@@ -149,6 +149,7 @@ pnpm dev
 
 Additional documentation can be found in the /docs folder, including:
 
+- [01 - Pre Project - Brainstorm](/docs/00-pre-project.md)
 - [01 - Project Overview](/docs/01-project-overview.md)
 - [02 - Product & Scope](/docs/02-product-and-scope.md)
 - [03 - Users & Flows](/docs/03-users-and-flows.md)
